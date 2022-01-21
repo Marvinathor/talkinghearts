@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA0Bf2e31461e9a709DC61cC37380cf965184f0AC",
+  "SCAN_LINK": "https://polygonscan.com/token/0xc9754BE6BA22C9Fd2b5480b4DbD5289787107AE5",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Talking Hearts",
+  "SYMBOL": "TKHS",
+  "MAX_SUPPLY": 4800,
+  "WEI_COST": 134000000000000000000,
+  "DISPLAY_COST": 134,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/TalkingHearts-TKHS",
+  "SHOW_BACKGROUND": true
+}
